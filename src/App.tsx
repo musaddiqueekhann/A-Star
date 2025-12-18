@@ -24,7 +24,9 @@ export default function App() {
       <AboutSection />
       <Innovation />
       <CategoryGrid />
-      <FeaturedProducts />
+      
+      
+      
       <ProductFinder />
       <WattageSlider />
       <TechnicalSpecs />
