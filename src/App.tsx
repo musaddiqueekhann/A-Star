@@ -32,7 +32,9 @@ export default function App() {
       <TechnicalSpecs />
       <IndustrialSolutions />
       <AccessoriesSection />
-      <ProjectPortfolio />
+      
+      
+      
       <Testimonials />
       <Contact />
       <Footer />
